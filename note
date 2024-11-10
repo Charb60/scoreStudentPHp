@@ -1,0 +1,10 @@
+ดาวน์โหลด TCPDF:
+ไปที่ GitHub TCPDF repository 
+
+//database
+ชื่อฐานข้อมูล: student_scores
+ตาราง: scores ที่มีคอลัมน์:
+id (INT, PRIMARY KEY, AUTO_INCREMENT)(10)
+student_name (VARCHAR)(225)
+subject (VARCHAR)(225)
+score (INT)(225)
